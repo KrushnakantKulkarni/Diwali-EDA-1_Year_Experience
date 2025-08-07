@@ -132,7 +132,7 @@ jupyter notebook Diwali_Sales_EDA_Kaggle.ipynb
 Run all cells and explore the visuals interactively!
 ```
 🙋‍♂️ About Me
-Abhimanyuv — Aspiring Data Analyst with 1 Year Experience
+Krushnakant Kulkarni— Aspiring Data Analyst with 1 Year Experience
 
 🧑‍💻 Exploring data to solve real-world problems
 
